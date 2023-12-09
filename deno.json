@@ -1,0 +1,7 @@
+{
+	"tasks": {
+		"lint": "deno lint",
+		"fmt": "deno run -A npm:prettier . -w"
+	},
+	"lock": false
+}
